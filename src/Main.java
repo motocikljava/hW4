@@ -115,6 +115,7 @@ public class Main {
         else if (free > one &&  free > two) {
             System.out.println( free + " самое большое число");
         }
+        System.out.println("проверьте пожалуйста дз");
 
     }
 }
